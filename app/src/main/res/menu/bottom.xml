@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="홈"
+        android:icon="@drawable/ic_baseline_home_24" />
+    <item
+        android:id="@+id/bottom_zzim"
+        android:title="찜한가게"
+        android:icon="@drawable/ic_baseline_favorite_24" />
+    <item
+        android:id="@+id/bottom_order"
+        android:title="주문내역"
+        android:icon="@drawable/ic_baseline_text_snippet_24" />
+    <item
+        android:id="@+id/bottom_mypage"
+        android:icon="@drawable/ic_baseline_music_note_24"
+        android:title="마이씽잇" />
+</menu>

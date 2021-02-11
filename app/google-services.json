@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717171501358",
+    "project_id": "comin-dcc37",
+    "storage_bucket": "comin-dcc37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717171501358:android:28e67638909151c75a32bf",
+        "android_client_info": {
+          "package_name": "com.example.comin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717171501358-24pp865jmba33sd1rasu6dr7444ebhrl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAclVh2AihjMQKqoQg7qWsqPPdYv6bwVhE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717171501358-24pp865jmba33sd1rasu6dr7444ebhrl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
